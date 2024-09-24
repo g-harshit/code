@@ -1,0 +1,2 @@
+# github.com/TeamTutx/plib v0.0.0-20240918061730-255c51f3ca3e
+## explicit; go 1.18
